@@ -1,5 +1,5 @@
 # Calculate winning probability in Monty Hall
-# Have three doors and play for 10000 times
+# Have three doors and Zonk opens one door; play for 10000 times
 
 from __future__ import division
 import random
