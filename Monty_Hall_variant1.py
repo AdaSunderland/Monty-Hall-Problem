@@ -1,4 +1,4 @@
-# Simulate Monty Hall Problem
+# Calculate winning probability in Monty Hall
 # Have k doors and Zonk opens s doors
 # Note: In order to see the tables, please use <pip install tabulate> to get this table package first
 
