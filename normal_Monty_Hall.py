@@ -1,4 +1,3 @@
-# Meng Jia
 # Simulate Monty Hall Problem
 # Have three doors and play for 10000 times
 
