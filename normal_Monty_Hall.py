@@ -1,4 +1,4 @@
-# Simulate Monty Hall Problem
+# Calculate winning probability in Monty Hall
 # Have three doors and play for 10000 times
 
 from __future__ import division
